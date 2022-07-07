@@ -184,6 +184,8 @@
 #mail-box {
     background-color: #bdc3c7;
     font-size: 16px;
+    border-radius: 5px 0px 0px 5px;
+
 }
 #sub-button {
     padding-left: 0;
@@ -191,6 +193,8 @@
     background-color: #3498db;
     color: #fff;
     font-size: 16px;
+    margin-left: -5px;
+    border-radius: 0px 5px 5px 0px;
 }
 .footer-area {
     background-color: #182C61;
