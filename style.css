@@ -34,7 +34,6 @@
     display: flex;
     margin-top: 50px;
     text-align: center;
-    justify-content: space-between;
 }
 .Donate-today-area {
     margin-top: 110px;
@@ -90,4 +89,119 @@
 .Our-donate-plan-area p {
     color: gray;
     margin-top: 8px;
+}
+.our-donate-plan-container {
+    display: flex;
+    margin-top: 50px;
+}
+.w-30 {
+    width: 400px;
+    margin: auto;
+    padding: 60px 20px 60px;
+    border-radius: 5px;
+}
+.light-blue-color {
+    background-color: rgba(52, 152, 219,0.1);
+}
+.light-red-color {
+    background-color: rgba(231, 76, 60,0.1);
+}
+.light-orange-color {
+    background-color: rgba(241, 196, 15,0.1);
+}
+.w-30 img {
+    margin-bottom: 25px;
+}
+.w-30 h2 {
+    margin-bottom: 25px;
+}
+.feedback-area-container {
+    display: flex;
+}
+.w-25 {
+    width: 25%;
+    margin: auto;
+    padding-top: 50px;
+    color: #fff;
+    text-align: center;
+}
+.feedback-area-content {
+    margin-top: 110px;
+    text-align: center;
+    padding-top: 50px;
+}
+.feedback-area {
+    background-image: linear-gradient(#3498db,#2980b9);
+}
+.feedback-area h1 {
+    font-size: 42px;
+    color: #fff;
+}
+.feedback-area p {
+    color: #fff;
+    margin-top: 8px;
+}
+.w-25 img {
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 25px; 
+}
+.w-25 p {
+   padding-bottom: 50px; 
+}
+.Update-area {
+    text-align: center;
+    margin-top: 110px;
+}
+.Update-area h1 {
+    font-size: 42px;
+}
+.Update-area p {
+    color: gray;
+    margin-top: 8px;
+}
+.mail-box-container {
+    width:50%;
+    height: 200px;
+    background-color: rgba(52, 152, 219,0.1);
+    text-align: center;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 50px;
+}
+.mail-input {
+    text-align: center;
+    line-height: 200px;
+}
+.mail-input input{
+    border-style: none;
+    padding: 10px 0;
+    padding-left: 15px;
+    width: 250px;
+}
+#mail-box {
+    background-color: #bdc3c7;
+    font-size: 16px;
+}
+#sub-button {
+    padding-left: 0;
+    width: 150px;
+    background-color: #3498db;
+    color: #fff;
+    font-size: 16px;
+}
+.footer-area {
+    background-color: #182C61;
+    margin-top: 150px;
+    text-align: center;
+    padding: 60px 0;
+}
+.footer-area h1 {
+    color:#F97F51;
+}
+.footer-area p {
+    color: #fff;
+    margin-top: 20px;
 }
